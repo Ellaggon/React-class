@@ -1,0 +1,29 @@
+/* Icon-item */
+.TodoItem span {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  width: 48px;
+  font-weight: bold;
+}
+.Icon-container-check {
+  position: absolute;
+  left: 12px;
+  font-size: 30px;
+}
+.Icon-container-check-active {
+  color: green;
+  background-color: rgb(234, 246, 216);
+  border-radius: 15px;
+}
+.Icon-container-delete {
+  position: absolute;
+  font-size: 30px;
+  top: -22px;
+  right: -15px;
+}
+.Icon-container-delete:hover {
+  color: red;
+}
