@@ -2,13 +2,13 @@
   width: 64px;
   height: 64px;
   z-index: 1;
-  font-size: 50px;
+  font-size: 45px;
   position: fixed;
   bottom: 24px;
   right: 24px;
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-content: center;
   background-color: #3b86d7;
   box-shadow: 0px 5px 25px rgba(36, 155, 246, 0.5);
   color: #fafafa;
