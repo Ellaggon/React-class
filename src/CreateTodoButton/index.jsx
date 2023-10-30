@@ -1,4 +1,4 @@
-import "./createTodoButton.css";
+import "./CreateTodoButton.css";
 
 function CreateTodoButton({ setOpenModal }) {
   return (
